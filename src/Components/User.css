@@ -1,0 +1,10 @@
+.Users {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10%;
+  
+  }
+  .user-card  {
+    margin: 5%;
+    
+  }
